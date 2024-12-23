@@ -4,4 +4,4 @@ Site de dasafio da Escola DNC, que demonstra a aprensentação de uma empresa de
 
 Planilha: https://docs.google.com/spreadsheets/d/1rLGGzi5h-VKA7cEZqXUlJrAU4rrk5uLtMhlZa1gkySo/edit?gid=0#gid=0
 
-netlify : https://projetoarq.netlify.app
+netlify : https://protejoarq2.netlify.app
